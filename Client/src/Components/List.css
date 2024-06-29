@@ -1,0 +1,24 @@
+.button {
+  background-color: #2da3e8;
+  border: none;
+  outline: none !important;
+  color: aliceblue;
+}
+
+input {
+  border: 2px solid white;
+  padding: 4px;
+  border-radius: 5px;
+  outline: none;
+  margin-bottom: 10px;
+}
+
+.hi {
+  margin-top: 5px !important;
+}
+
+.card1 {
+  margin-left: 120px;
+  margin-top: 5px;
+  width: 100%;
+}
